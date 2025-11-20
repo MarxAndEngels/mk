@@ -1,5 +1,5 @@
 // src/router/index.js
-import { createRouter, createWebHistory } from 'vue-router';
+import { createRouter, createWebHashHistory } from 'vue-router';
 import Home from '../components/Home.vue';
 import Game1BonusesVsPc from '../components/Game1BonusesVsPc.vue';
 import Game2Bonuses from '../components/Game2Bonuses.vue';
@@ -48,7 +48,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(), // Используем HTML5 History API
+ history: createWebHashHistory(), // решает проблемы с роутингом
   routes,
 });
 
