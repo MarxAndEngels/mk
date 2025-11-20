@@ -18,7 +18,7 @@
           5.
         </span>
          {{ selectedOptionLanguage == 'rus' ? 'Играть против компьютера' : 'Play against the computer' }}</router-link>
-         <router-link to="/test">test</router-link>
+         <!-- <router-link to="/test">test</router-link> -->
 
     <!-- <div class="text-select">
         {{ selectedOptionLanguage == 'rus' ? 'Количество игроков:' : 'Count players:' }}
