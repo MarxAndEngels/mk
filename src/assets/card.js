@@ -22,6 +22,50 @@ let data = [
         "image":"shaggy.jpg"
     },
     {
+        "id": 2,
+        "title": "Shaggy", //персонаж прикол, по силе как герас))
+        "subtitle": "Powerful",
+        "power": 9800,
+        "intelligence": 9800,
+        "dexterity": 9800,
+        "special_skills": 9800,
+        "fighting_skills": 9800,
+        "image":"shaggy.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Shaggy", //персонаж прикол, по силе как герас))
+        "subtitle": "Powerful",
+        "power": 9800,
+        "intelligence": 9800,
+        "dexterity": 9800,
+        "special_skills": 9800,
+        "fighting_skills": 9800,
+        "image":"shaggy.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Shaggy", //персонаж прикол, по силе как герас))
+        "subtitle": "Powerful",
+        "power": 9800,
+        "intelligence": 9800,
+        "dexterity": 9800,
+        "special_skills": 9800,
+        "fighting_skills": 9800,
+        "image":"shaggy.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Shaggy", //персонаж прикол, по силе как герас))
+        "subtitle": "Powerful",
+        "power": 9800,
+        "intelligence": 9800,
+        "dexterity": 9800,
+        "special_skills": 9800,
+        "fighting_skills": 9800,
+        "image":"shaggy.jpg"
+    },
+    {
         "id": 3,
         "title": "Sub-Zero",
         "subtitle": "MK 1992",
@@ -1125,6 +1169,39 @@ let data = [
     {
         "id": 102,
         "title": "Batman", //$
+        "subtitle": "MK vs. DC Universe",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanvsdc.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", //$
+        "subtitle": "MK vs. DC Universe",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanvsdc.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", //$
+        "subtitle": "MK vs. DC Universe",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanvsdc.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", //$
         "subtitle": "Injustice 2", 
         "power": 9650, //сильнее супермена
         "intelligence": 9650,
@@ -1132,6 +1209,72 @@ let data = [
         "special_skills": 9650, //сильнее супермена
         "fighting_skills":9600,
         "image":"batmanj21.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", //$
+        "subtitle": "Injustice 2", 
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj21.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", //$
+        "subtitle": "Injustice 2", 
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj21.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", //$
+        "subtitle": "Injustice 2", 
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj21.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", //$
+        "subtitle": "Injustice 2",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj22.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", //$
+        "subtitle": "Injustice 2",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj22.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", //$
+        "subtitle": "Injustice 2",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj22.jpg"
     },
     {
         "id": 102,
@@ -1158,6 +1301,50 @@ let data = [
     {
         "id": 102,
         "title": "Batman", 
+        "subtitle": "Injustice 2 | costume 1",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj23.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", 
+        "subtitle": "Injustice 2 | costume 1",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj23.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", 
+        "subtitle": "Injustice 2",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj25.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", 
+        "subtitle": "Injustice 2",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj25.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", 
         "subtitle": "Injustice 2",
         "power": 9650, //сильнее супермена
         "intelligence": 9650,
@@ -1176,6 +1363,50 @@ let data = [
         "special_skills": 9650, //сильнее супермена
         "fighting_skills":9600,
         "image":"batmanj24.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Bruce Wayne", //$
+        "subtitle": "Injustice 2",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj24.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Bruce Wayne", //$
+        "subtitle": "Injustice 2",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj24.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj11.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj11.jpg"
     },
     {
         "id": 102,
@@ -1202,6 +1433,28 @@ let data = [
     {
         "id": 102,
         "title": "Batman",
+        "subtitle": "Injustice: Gods Among Us | costume Red Son",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj12.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman",
+        "subtitle": "Injustice: Gods Among Us | costume Red Son",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj12.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman",
         "subtitle": "Injustice: Gods Among Us",
         "power": 9650, //сильнее супермена
         "intelligence": 9650,
@@ -1209,6 +1462,50 @@ let data = [
         "special_skills": 9650, //сильнее супермена
         "fighting_skills":9600,
         "image":"batmanj13.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman",
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj13.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman",
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj13.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman",
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj14.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Batman",
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 9650, //сильнее супермена
+        "intelligence": 9650,
+        "dexterity": 9200,
+        "special_skills": 9650, //сильнее супермена
+        "fighting_skills":9600,
+        "image":"batmanj14.jpg"
     },
     {
         "id": 102,
@@ -1257,6 +1554,39 @@ let data = [
     {
         "id": 104,
         "title": "Catwoman", //$
+        "subtitle": "MK vs. DC Universe",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"catvsdc.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "MK vs. DC Universe",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"catvsdc.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "MK vs. DC Universe",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"catvsdc.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
         "subtitle": "Injustice 2",
         "power": 8850,
         "intelligence": 8300,
@@ -1264,6 +1594,72 @@ let data = [
         "special_skills": 8850,
         "fighting_skills":8800,
         "image":"catj2.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "Injustice 2",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"catj2.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "Injustice 2",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"catj2.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "Injustice 2",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"catj2.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "Injustice 2",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat1j2.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "Injustice 2",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat1j2.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "Injustice 2",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat1j2.jpg"
     },
     {
         "id": 104,
@@ -1296,6 +1692,72 @@ let data = [
         "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
         "special_skills": 8850,
         "fighting_skills":8800,
+        "image":"cat2j2.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "Injustice 2",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat2j2.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "Injustice 2",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat2j2.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "Injustice 2",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat3j2.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "Injustice 2",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat3j2.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "Injustice 2",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat3j2.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", //$
+        "subtitle": "Injustice 2",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
         "image":"cat3j2.jpg"
     },
     {
@@ -1318,7 +1780,106 @@ let data = [
         "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
         "special_skills": 8850,
         "fighting_skills":8800,
+        "image":"catj1.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"catj1.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"catj1.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
         "image":"cat1j1.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat1j1.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat1j1.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat1j1.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat2j1.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat2j1.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Catwoman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 8850,
+        "intelligence": 8300,
+        "dexterity": 8300, //есть гаджеты для быстрого передвижения по городу
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"cat2j1.jpg"
     },
     {
         "id": 104,
@@ -1411,6 +1972,39 @@ let data = [
     {
         "id": 107,
         "title": "Joker",
+        "subtitle": "MK vs. DC Universe",
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokervsdc.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "MK vs. DC Universe",
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokervsdc.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "MK vs. DC Universe",
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokervsdc.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
         "subtitle": "Injustice 2", //$
         "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
         "intelligence": 7400,
@@ -1418,6 +2012,72 @@ let data = [
         "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
         "fighting_skills":9100,
         "image":"jokeri21.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "Injustice 2", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri21.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "Injustice 2", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri21.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "Injustice 2", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri21.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker", //$
+        "subtitle": "Injustice 2 | costume 1",
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri22.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker", //$
+        "subtitle": "Injustice 2 | costume 1",
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri22.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker", //$
+        "subtitle": "Injustice 2 | costume 1",
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri22.jpg"
     },
     {
         "id": 107,
@@ -1443,6 +2103,72 @@ let data = [
     },
     {
         "id": 107,
+        "title": "Joker",
+        "subtitle": "Injustice 2 | costume 2",
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri23.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "Injustice 2 | costume 2",
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri23.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "Injustice 2 | costume 2",
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri23.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker", //$
+        "subtitle": "Injustice: Gods Among Us", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri11.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker", //$
+        "subtitle": "Injustice: Gods Among Us", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri11.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker", //$
+        "subtitle": "Injustice: Gods Among Us", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri11.jpg"
+    },
+    {
+        "id": 107,
         "title": "Joker", //$
         "subtitle": "Injustice: Gods Among Us", //$
         "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
@@ -1462,6 +2188,83 @@ let data = [
         "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
         "fighting_skills":9100,
         "image":"jokeri12.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "Injustice: Gods Among Us | costume Arkham City", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri12.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "Injustice: Gods Among Us | costume Arkham City", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri12.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "Injustice: Gods Among Us | costume Arkham City", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri12.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "Injustice: Gods Among Us | costume Tourist", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri13.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "Injustice: Gods Among Us | costume Tourist", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri13.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "Injustice: Gods Among Us | costume Tourist", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri13.jpg"
+    },
+    {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "Injustice: Gods Among Us | costume Tourist", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri13.jpg"
     },
     {
         "id": 107,
@@ -1521,6 +2324,39 @@ let data = [
     {
         "id": 109,
         "title": "Superman", //$
+        "subtitle": "MK vs. DC Universe",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermanvsdc.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", //$
+        "subtitle": "MK vs. DC Universe",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermanvsdc.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", //$
+        "subtitle": "MK vs. DC Universe",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermanvsdc.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", //$
         "subtitle": "Injustice 2",
         "power": 9600,
         "intelligence": 8500,
@@ -1528,6 +2364,72 @@ let data = [
         "special_skills":9600,
         "fighting_skills":9600,
         "image":"supermani21.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", //$
+        "subtitle": "Injustice 2",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani21.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", //$
+        "subtitle": "Injustice 2",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani21.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", //$
+        "subtitle": "Injustice 2",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani21.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice 2 | costume Red Son",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani22.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice 2 | costume Red Son",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani22.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice 2 | costume Red Son",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani22.jpg"
     },
     {
         "id": 109,
@@ -1550,6 +2452,83 @@ let data = [
         "special_skills":9600,
         "fighting_skills":9600,
         "image":"supermani23.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Bizarro", //$
+        "subtitle": "Injustice 2",
+        "power": 9600,
+        "intelligence": 3500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani23.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Bizarro", //$
+        "subtitle": "Injustice 2",
+        "power": 9600,
+        "intelligence": 3500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani23.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Bizarro", //$
+        "subtitle": "Injustice 2",
+        "power": 9600,
+        "intelligence": 3500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani23.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Bizarro", //$
+        "subtitle": "Injustice 2",
+        "power": 9600,
+        "intelligence": 3500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani23.jpg"
+    },
+      {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice 2",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani24.jpg"
+    },
+      {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice 2",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani24.jpg"
+    },
+      {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice 2",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani24.jpg"
     },
       {
         "id": 109,
@@ -1576,6 +2555,83 @@ let data = [
     {
         "id": 109,
         "title": "Superman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani11.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani11.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani11.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice: Gods Among Us",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani11.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice: Gods Among Us | costume Man of Steel",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani12.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice: Gods Among Us | costume Man of Steel",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani12.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice: Gods Among Us | costume Man of Steel",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani12.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", 
         "subtitle": "Injustice: Gods Among Us | costume Man of Steel",
         "power": 9600,
         "intelligence": 8500,
@@ -1594,6 +2650,72 @@ let data = [
         "special_skills":9600,
         "fighting_skills":9600,
         "image":"supermani13.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice: Gods Among Us | costume Lockdown",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani13.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice: Gods Among Us | costume Lockdown",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani13.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Superman", 
+        "subtitle": "Injustice: Gods Among Us | costume Lockdown",
+        "power": 9600,
+        "intelligence": 8500,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9600,
+        "image":"supermani13.jpg"
+    },
+    {
+        "id": 110,
+        "title": "The Flash", //$
+        "subtitle": "MK vs. DC Universe",
+        "power": 9450, //слабее супера и хомлендера и можно ранить его если не бегает 
+        "intelligence": 8500,
+        "dexterity": 9650, //быстрее супера
+        "special_skills":9600,  //быстрее супера и во времени перемещение
+        "fighting_skills":9450, // слабее в драке с хомлендером
+        "image":"flashvsdc.jpg"
+    },
+    {
+        "id": 110,
+        "title": "The Flash", //$
+        "subtitle": "MK vs. DC Universe",
+        "power": 9450, //слабее супера и хомлендера и можно ранить его если не бегает 
+        "intelligence": 8500,
+        "dexterity": 9650, //быстрее супера
+        "special_skills":9600,  //быстрее супера и во времени перемещение
+        "fighting_skills":9450, // слабее в драке с хомлендером
+        "image":"flashvsdc.jpg"
+    },
+    {
+        "id": 110,
+        "title": "The Flash", //$
+        "subtitle": "MK vs. DC Universe",
+        "power": 9450, //слабее супера и хомлендера и можно ранить его если не бегает 
+        "intelligence": 8500,
+        "dexterity": 9650, //быстрее супера
+        "special_skills":9600,  //быстрее супера и во времени перемещение
+        "fighting_skills":9450, // слабее в драке с хомлендером
+        "image":"flashvsdc.jpg"
     },
     {
         "id": 110,
@@ -1816,6 +2938,39 @@ let data = [
         "image":"1freddy9.jpg"
     },
     {
+        "id": 129,
+        "title": "Freddy Krueger", //$
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"1freddy9.jpg"
+    },
+    {
+        "id": 129,
+        "title": "Freddy Krueger", //$
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"1freddy9.jpg"
+    },
+    {
+        "id": 129,
+        "title": "Freddy Krueger", //$
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"1freddy9.jpg"
+    },
+    {
         "id": 130,
         "title": "Freddy Krueger",
         "subtitle": "MK 9",
@@ -1825,6 +2980,50 @@ let data = [
         "special_skills":9150,
         "fighting_skills":9000,
         "image":"2freddy9.jpg"
+    },
+    {
+        "id": 130,
+        "title": "Freddy Krueger",
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"2freddy9.jpg"
+    },
+    {
+        "id": 130,
+        "title": "Freddy Krueger",
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"2freddy9.jpg"
+    },
+    {
+        "id": 131,
+        "title": "Freddy Krueger",
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"3freddy9.jpg"
+    },
+    {
+        "id": 131,
+        "title": "Freddy Krueger",
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"3freddy9.jpg"
     },
     {
         "id": 131,
@@ -1857,7 +3056,73 @@ let data = [
         "dexterity": 8800, 
         "special_skills":9150,
         "fighting_skills":9000,
+        "image":"freddy1.jpg"
+    },
+    {
+        "id": 131,
+        "title": "Freddy Krueger", //$
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"freddy1.jpg"
+    },
+    {
+        "id": 131,
+        "title": "Freddy Krueger", //$
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
         "image":"freddy2.jpg"
+    },
+    {
+        "id": 131,
+        "title": "Freddy Krueger", //$
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"freddy2.jpg"
+    },
+    {
+        "id": 131,
+        "title": "Freddy Krueger", //$
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"freddy2.jpg"
+    },
+    {
+        "id": 131,
+        "title": "Freddy Krueger", //$
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"freddy3.jpg"
+    },
+    {
+        "id": 131,
+        "title": "Freddy Krueger", //$
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"freddy3.jpg"
     },
     {
         "id": 131,
@@ -2025,6 +3290,50 @@ let data = [
         "image":"kratos9.jpg"
     },
     {
+        "id": 145, 
+        "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
+        "subtitle": "MK 9", //$
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"kratos9.jpg"
+    },
+    {
+        "id": 145, 
+        "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
+        "subtitle": "MK 9", //$
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"kratos9.jpg"
+    },
+    {
+        "id": 146,
+        "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
+        "subtitle": "MK 9",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"2kratos9.jpg"
+    },
+    {
+        "id": 146,
+        "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
+        "subtitle": "MK 9",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"2kratos9.jpg"
+    },
+    {
         "id": 146,
         "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
         "subtitle": "MK 9",
@@ -2066,7 +3375,73 @@ let data = [
         "dexterity": 9760,
         "special_skills": 9760,
         "fighting_skills": 9760,
+        "image":"kratos3.jpg"
+    },
+    {
+        "id": 147,
+        "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
+        "subtitle": "MK 9",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"kratos3.jpg"
+    },
+    {
+        "id": 147,
+        "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
+        "subtitle": "MK 9",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
         "image":"kratos4.jpg"
+    },
+    {
+        "id": 147,
+        "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
+        "subtitle": "MK 9",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"kratos4.jpg"
+    },
+    {
+        "id": 147,
+        "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
+        "subtitle": "MK 9",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"kratos4.jpg"
+    },
+    {
+        "id": 147,
+        "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
+        "subtitle": "MK 9",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"kratos5.jpg"
+    },
+    {
+        "id": 147,
+        "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
+        "subtitle": "MK 9",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"kratos5.jpg"
     },
     {
         "id": 147,
@@ -2421,6 +3796,28 @@ let data = [
         "image":"alien10.jpg"
     },
     {
+        "id": 177,
+        "title": "Alien",  //$ 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
+        "image":"alien10.jpg"
+    },
+    {
+        "id": 177,
+        "title": "Alien",  //$ 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
+        "image":"alien10.jpg"
+    },
+    {
         "id": 178,
         "title": "Alien",  //$ 
         "subtitle": "MK X",
@@ -2430,6 +3827,50 @@ let data = [
         "special_skills": 9360,
         "fighting_skills": 9000, 
         "image":"2alien10.jpg"
+    },
+    {
+        "id": 178,
+        "title": "Alien",  //$ 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
+        "image":"2alien10.jpg"
+    },
+    {
+        "id": 178,
+        "title": "Alien",  //$ 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
+        "image":"2alien10.jpg"
+    },
+    {
+        "id": 179,
+        "title": "Alien",  //$ 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
+        "image":"3alien10.jpg"
+    },
+    {
+        "id": 179,
+        "title": "Alien",  //$ 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
+        "image":"3alien10.jpg"
     },
     {
         "id": 179,
@@ -2762,6 +4203,50 @@ let data = [
         "image":"leatherface10.jpg"
     },
     {
+        "id": 204,
+        "title": "Leatherface",  //$
+        "subtitle": "MK X",
+        "power": 8700,
+        "intelligence": 3800,
+        "dexterity": 7900,
+        "special_skills":8700,
+        "fighting_skills":8600,
+        "image":"leatherface10.jpg"
+    },
+    {
+        "id": 204,
+        "title": "Leatherface",  //$
+        "subtitle": "MK X",
+        "power": 8700,
+        "intelligence": 3800,
+        "dexterity": 7900,
+        "special_skills":8700,
+        "fighting_skills":8600,
+        "image":"leatherface10.jpg"
+    },
+    {
+        "id": 205,
+        "title": "Leatherface",  //$
+        "subtitle": "MK X",
+        "power": 8700,
+        "intelligence": 3800,
+        "dexterity": 7900,
+        "special_skills":8700,
+        "fighting_skills":8600,
+        "image":"2leatherface10.jpg"
+    },
+    {
+        "id": 205,
+        "title": "Leatherface",  //$
+        "subtitle": "MK X",
+        "power": 8700,
+        "intelligence": 3800,
+        "dexterity": 7900,
+        "special_skills":8700,
+        "fighting_skills":8600,
+        "image":"2leatherface10.jpg"
+    },
+    {
         "id": 205,
         "title": "Leatherface",  //$
         "subtitle": "MK X",
@@ -2782,6 +4267,50 @@ let data = [
         "special_skills":8700,
         "fighting_skills":8600,
         "image":"3leatherface10.jpg"
+    },
+    {
+        "id": 206,
+        "title": "Leatherface", 
+        "subtitle": "MK X",
+        "power": 8700,
+        "intelligence": 3800,
+        "dexterity": 7900,
+        "special_skills":8700,
+        "fighting_skills":8600,
+        "image":"3leatherface10.jpg"
+    },
+    {
+        "id": 206,
+        "title": "Leatherface", 
+        "subtitle": "MK X",
+        "power": 8700,
+        "intelligence": 3800,
+        "dexterity": 7900,
+        "special_skills":8700,
+        "fighting_skills":8600,
+        "image":"3leatherface10.jpg"
+    },
+    {
+        "id": 206,
+        "title": "Leatherface", 
+        "subtitle": "MK X",
+        "power": 8700,
+        "intelligence": 3800,
+        "dexterity": 7900,
+        "special_skills":8700,
+        "fighting_skills":8600,
+        "image":"leatherface1.jpg"
+    },
+    {
+        "id": 206,
+        "title": "Leatherface", 
+        "subtitle": "MK X",
+        "power": 8700,
+        "intelligence": 3800,
+        "dexterity": 7900,
+        "special_skills":8700,
+        "fighting_skills":8600,
+        "image":"leatherface1.jpg"
     },
     {
         "id": 206,
@@ -2850,6 +4379,28 @@ let data = [
         "image":"predator10.jpg"
     },
     {
+        "id": 210,
+        "title": "Predator",  //$
+        "subtitle": "MK X",
+        "power": 9360,
+        "intelligence": 9360, // почему-то он сражается между другими, чтобы стать сильнее. Такой себе по уму думаю
+        "dexterity": 9300,
+        "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
+        "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
+        "image":"predator10.jpg"
+    },
+    {
+        "id": 210,
+        "title": "Predator",  //$
+        "subtitle": "MK X",
+        "power": 9360,
+        "intelligence": 9360, // почему-то он сражается между другими, чтобы стать сильнее. Такой себе по уму думаю
+        "dexterity": 9300,
+        "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
+        "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
+        "image":"predator10.jpg"
+    },
+    {
         "id": 211,
         "title": "Predator",  //$
         "subtitle": "MK X",
@@ -2859,6 +4410,50 @@ let data = [
         "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
         "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
         "image":"2predator10.jpg"
+    },
+    {
+        "id": 211,
+        "title": "Predator",  //$
+        "subtitle": "MK X",
+        "power": 9360,
+        "intelligence": 9360, // почему-то он сражается между другими, чтобы стать сильнее. Такой себе по уму думаю
+        "dexterity": 9300,
+        "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
+        "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
+        "image":"2predator10.jpg"
+    },
+    {
+        "id": 211,
+        "title": "Predator",  //$
+        "subtitle": "MK X",
+        "power": 9360,
+        "intelligence": 9360, // почему-то он сражается между другими, чтобы стать сильнее. Такой себе по уму думаю
+        "dexterity": 9300,
+        "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
+        "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
+        "image":"2predator10.jpg"
+    },
+    {
+        "id": 212,
+        "title": "Predator",  //$
+        "subtitle": "MK X",
+        "power": 9360,
+        "intelligence": 9360, // почему-то он сражается между другими, чтобы стать сильнее. Такой себе по уму думаю
+        "dexterity": 9300,
+        "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
+        "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
+        "image":"3predator10.jpg"
+    },
+    {
+        "id": 212,
+        "title": "Predator",  //$
+        "subtitle": "MK X",
+        "power": 9360,
+        "intelligence": 9360, // почему-то он сражается между другими, чтобы стать сильнее. Такой себе по уму думаю
+        "dexterity": 9300,
+        "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
+        "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
+        "image":"3predator10.jpg"
     },
     {
         "id": 212,
@@ -3138,6 +4733,28 @@ let data = [
     {
         "id": 30,
         "title": "Hellboy",
+        "subtitle": "Injustice 2",
+        "power": 8850, //слабее эйрон блека, зеленой стрелы, миротворца
+        "intelligence": 8500,
+        "dexterity": 7900,
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"hell1.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Hellboy",
+        "subtitle": "Injustice 2 | costume 1",
+        "power": 8850, //слабее эйрон блека, зеленой стрелы, миротворца
+        "intelligence": 8500,
+        "dexterity": 7900,
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"hell2.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Hellboy",
         "subtitle": "Injustice 2 | costume 1",
         "power": 8850, //слабее эйрон блека, зеленой стрелы, миротворца
         "intelligence": 8500,
@@ -3160,6 +4777,17 @@ let data = [
     {
         "id": 30,
         "title": "Hellboy",
+        "subtitle": "Injustice 2 | costume 2", //$
+        "power": 8850, //слабее эйрон блека, зеленой стрелы, миротворца
+        "intelligence": 8500,
+        "dexterity": 7900,
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"hell3.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Hellboy",
         "subtitle": "Injustice 2 | costume 3",
         "power": 8850, //слабее эйрон блека, зеленой стрелы, миротворца
         "intelligence": 8500,
@@ -3167,6 +4795,28 @@ let data = [
         "special_skills": 8850,
         "fighting_skills":8800,
         "image":"hell4.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Hellboy",
+        "subtitle": "Injustice 2 | costume 3",
+        "power": 8850, //слабее эйрон блека, зеленой стрелы, миротворца
+        "intelligence": 8500,
+        "dexterity": 7900,
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"hell4.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Hellboy",
+        "subtitle": "Injustice 2 | costume 4",
+        "power": 8850, //слабее эйрон блека, зеленой стрелы, миротворца
+        "intelligence": 8500,
+        "dexterity": 7900,
+        "special_skills": 8850,
+        "fighting_skills":8800,
+        "image":"hell5.jpg"
     },
     {
         "id": 30,
@@ -3381,6 +5031,17 @@ let data = [
     {
         "id": 32,
         "title": "Leonardo",
+        "subtitle": "Injustice 2",
+        "power": 9350, 
+        "intelligence": 8300,
+        "dexterity": 8300,
+        "special_skills":9350,
+        "fighting_skills":9350,
+        "image":"leonardo.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Leonardo",
         "subtitle": "Injustice 2 | costume 1",
         "power": 9350, 
         "intelligence": 8300,
@@ -3388,6 +5049,28 @@ let data = [
         "special_skills":9350,
         "fighting_skills":9350,
         "image":"leonardo1.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Leonardo",
+        "subtitle": "Injustice 2 | costume 1",
+        "power": 9350, 
+        "intelligence": 8300,
+        "dexterity": 8300,
+        "special_skills":9350,
+        "fighting_skills":9350,
+        "image":"leonardo1.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Raphael",
+        "subtitle": "Injustice 2 | costume 1",
+        "power": 9345,  //чуть послабее лео
+        "intelligence": 8300,
+        "dexterity": 8300,
+        "special_skills":9345, 
+        "fighting_skills":9345, 
+        "image":"raphael.jpg"
     },
     {
         "id": 32,
@@ -3414,6 +5097,17 @@ let data = [
     {
         "id": 32,
         "title": "Donatello",
+        "subtitle": "Injustice 2 | costume 1",
+        "power": 9550,
+        "intelligence": 9550,
+        "dexterity": 9200,
+        "special_skills":9550,
+        "fighting_skills":9350,
+        "image":"donatello1.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Donatello",
         "subtitle": "Injustice 2 | costume 2",
         "power": 9550,
         "intelligence": 9550,
@@ -3421,6 +5115,28 @@ let data = [
         "special_skills":9550,
         "fighting_skills":9350,
         "image":"donatello2.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Donatello",
+        "subtitle": "Injustice 2 | costume 2",
+        "power": 9550,
+        "intelligence": 9550,
+        "dexterity": 9200,
+        "special_skills":9550,
+        "fighting_skills":9350,
+        "image":"donatello2.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Michelangelo",
+        "subtitle": "Injustice 2 | costume 1",
+        "power": 9345,  //чуть послабее лео
+        "intelligence": 7800,
+        "dexterity": 8300,
+        "special_skills":9345, 
+        "fighting_skills":9345, 
+        "image":"michelangelo.jpg"
     },
     {
         "id": 32,
@@ -3768,6 +5484,17 @@ let data = [
     {
         "id": 32,
         "title": "Harley Quinn",
+        "subtitle": "Injustice 2",
+        "power": 8850,
+        "intelligence": 7100,
+        "dexterity": 7900,
+        "special_skills": 8850,
+        "fighting_skills":8600, //не умеет планировать
+        "image":"hqi21.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Harley Quinn",
         "subtitle": "Injustice 2 | costume 1",
         "power": 8850,
         "intelligence": 7100,
@@ -3775,6 +5502,28 @@ let data = [
         "special_skills": 8850,
         "fighting_skills":8600, //не умеет планировать
         "image":"hqi22.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Harley Quinn",
+        "subtitle": "Injustice 2 | costume 1",
+        "power": 8850,
+        "intelligence": 7100,
+        "dexterity": 7900,
+        "special_skills": 8850,
+        "fighting_skills":8600, //не умеет планировать
+        "image":"hqi22.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Harley Quinn",
+        "subtitle": "Injustice 2 | costume 2", //$
+        "power": 8850,
+        "intelligence": 7100,
+        "dexterity": 7900,
+        "special_skills": 8850,
+        "fighting_skills":8600, //не умеет планировать
+        "image":"hqi23.jpg"
     },
     {
         "id": 32,
@@ -3801,6 +5550,28 @@ let data = [
     {
         "id": 32,
         "title": "Harley Quinn",
+        "subtitle": "Injustice 2 | costume 3",
+        "power": 8850,
+        "intelligence": 7100,
+        "dexterity": 7900,
+        "special_skills": 8850,
+        "fighting_skills":8600, //не умеет планировать
+        "image":"hqi24.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Harley Quinn",
+        "subtitle": "Injustice: Gods Among Us", //$
+        "power": 8850,
+        "intelligence": 7100,
+        "dexterity": 7900,
+        "special_skills": 8850,
+        "fighting_skills":8600, //не умеет планировать
+        "image":"hqi1.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Harley Quinn",
         "subtitle": "Injustice: Gods Among Us", //$
         "power": 8850,
         "intelligence": 7100,
@@ -3819,6 +5590,28 @@ let data = [
         "special_skills":8950,
         "fighting_skills":8950,
         "image":"banei21.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Bane",
+        "subtitle": "Injustice 2", //$
+        "power": 8950, //слабее горо
+        "intelligence": 7800,
+        "dexterity": 7900,
+        "special_skills":8950,
+        "fighting_skills":8950,
+        "image":"banei21.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Bane",
+        "subtitle": "Injustice 2 | costume 1",
+        "power": 8950, //слабее горо
+        "intelligence": 7800,
+        "dexterity": 7900,
+        "special_skills":8950,
+        "fighting_skills":8950,
+        "image":"banei22.jpg"
     },
     {
         "id": 32,
@@ -3851,7 +5644,40 @@ let data = [
         "dexterity": 7900,
         "special_skills":8950,
         "fighting_skills":8950,
+        "image":"banei23.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Bane",
+        "subtitle": "Injustice 2", //$
+        "power": 8950, //слабее горо
+        "intelligence": 7800,
+        "dexterity": 7900,
+        "special_skills":8950,
+        "fighting_skills":8950,
         "image":"banei24.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Bane",
+        "subtitle": "Injustice 2", //$
+        "power": 8950, //слабее горо
+        "intelligence": 7800,
+        "dexterity": 7900,
+        "special_skills":8950,
+        "fighting_skills":8950,
+        "image":"banei24.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Bane",
+        "subtitle": "Injustice 2", //$
+        "power": 8950, //слабее горо
+        "intelligence": 7800,
+        "dexterity": 7900,
+        "special_skills":8950,
+        "fighting_skills":8950,
+        "image":"banei25.jpg"
     },
     {
         "id": 32,
@@ -4369,7 +6195,62 @@ let data = [
         "dexterity": 7900,
         "special_skills":9360,
         "fighting_skills":9350,
+        "image":"rambo111.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Rambo", //$
+        "subtitle": "MK 11",
+        "power": 9360, //персонаж силен ловушками и оружем
+        "intelligence": 7800,
+        "dexterity": 7900,
+        "special_skills":9360,
+        "fighting_skills":9350,
+        "image":"rambo111.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Rambo", //$
+        "subtitle": "MK 11",
+        "power": 9360, //персонаж силен ловушками и оружем
+        "intelligence": 7800,
+        "dexterity": 7900,
+        "special_skills":9360,
+        "fighting_skills":9350,
         "image":"rambo211.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Rambo", //$
+        "subtitle": "MK 11",
+        "power": 9360, //персонаж силен ловушками и оружем
+        "intelligence": 7800,
+        "dexterity": 7900,
+        "special_skills":9360,
+        "fighting_skills":9350,
+        "image":"rambo211.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Rambo", //$
+        "subtitle": "MK 11",
+        "power": 9360, //персонаж силен ловушками и оружем
+        "intelligence": 7800,
+        "dexterity": 7900,
+        "special_skills":9360,
+        "fighting_skills":9350,
+        "image":"rambo211.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Rambo",
+        "subtitle": "MK 11 | Warfighter",
+        "power": 9360, //персонаж силен ловушками и оружем
+        "intelligence": 7800,
+        "dexterity": 7900,
+        "special_skills":9360,
+        "fighting_skills":9350,
+        "image":"rambo311.jpg"
     },
     {
         "id": 30,
@@ -4392,6 +6273,28 @@ let data = [
         "special_skills":9360,
         "fighting_skills":9350,
         "image":"rambo411.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Rambo",
+        "subtitle": "MK 11 | Code of Honor",
+        "power": 9360, //персонаж силен ловушками и оружем
+        "intelligence": 7800,
+        "dexterity": 7900,
+        "special_skills":9360,
+        "fighting_skills":9350,
+        "image":"rambo411.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Rambo",
+        "subtitle": "MK 11 | Grieving Comrade",
+        "power": 9360, //персонаж силен ловушками и оружем
+        "intelligence": 7800,
+        "dexterity": 7900,
+        "special_skills":9360,
+        "fighting_skills":9350,
+        "image":"rambo511.jpg"
     },
     {
         "id": 30,
@@ -4424,7 +6327,62 @@ let data = [
         "dexterity": 7900, 
         "special_skills":9300,
         "fighting_skills":9100,
+        "image":"t800111.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800", //$
+        "subtitle": "MK 11",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
+        "image":"t800111.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800", //$
+        "subtitle": "MK 11",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
         "image":"t800211.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800", //$
+        "subtitle": "MK 11",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
+        "image":"t800211.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800", //$
+        "subtitle": "MK 11",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
+        "image":"t800211.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800", //$
+        "subtitle": "MK 11 | Depth Frame",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
+        "image":"t800311.jpg"
     },
     {
         "id": 32,
@@ -4451,6 +6409,17 @@ let data = [
     {
         "id": 32,
         "title": "Terminator T-800",
+        "subtitle": "MK 11 | Inexorable",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
+        "image":"t800411.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800",
         "subtitle": "MK 11 | Systematic",
         "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
         "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
@@ -4458,6 +6427,50 @@ let data = [
         "special_skills":9300,
         "fighting_skills":9100,
         "image":"t800511.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800",
+        "subtitle": "MK 11 | Systematic",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
+        "image":"t800511.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Robocop", //$
+        "subtitle": "MK 11",
+        "power": 9250, //слабее терминатора
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9250,
+        "fighting_skills":9000,
+        "image":"robocop111.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Robocop", //$
+        "subtitle": "MK 11",
+        "power": 9250, //слабее терминатора
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9250,
+        "fighting_skills":9000,
+        "image":"robocop111.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Robocop", //$
+        "subtitle": "MK 11",
+        "power": 9250, //слабее терминатора
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9250,
+        "fighting_skills":9000,
+        "image":"robocop111.jpg"
     },
     {
         "id": 32,
@@ -4483,6 +6496,28 @@ let data = [
     },
     {
         "id": 32,
+        "title": "Robocop",
+        "subtitle": "MK 11",
+        "power": 9250, //слабее терминатора
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9250,
+        "fighting_skills":9000,
+        "image":"robocop211.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Robocop", //$
+        "subtitle": "MK 11",
+        "power": 9250, //слабее терминатора
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9250,
+        "fighting_skills":9000,
+        "image":"robocop311.jpg"
+    },
+    {
+        "id": 32,
         "title": "Robocop", //$
         "subtitle": "MK 11",
         "power": 9250, //слабее терминатора
@@ -4502,6 +6537,28 @@ let data = [
         "special_skills":9250,
         "fighting_skills":9000,
         "image":"robocop411.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Robocop",
+        "subtitle": "MK 11",
+        "power": 9250, //слабее терминатора
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9250,
+        "fighting_skills":9000,
+        "image":"robocop411.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Robocop",
+        "subtitle": "MK 11 | Beat Cop",
+        "power": 9250, //слабее терминатора
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9250,
+        "fighting_skills":9000,
+        "image":"robocop511.jpg"
     },
     {
         "id": 32,
@@ -4842,7 +6899,51 @@ let data = [
         "dexterity": 9760,
         "special_skills": 9760,
         "fighting_skills": 9760,
+        "image":"spawn111.jpg"
+    },
+    {
+        "id": 45,
+        "title": "Spawn", //$
+        "subtitle": "MK 11",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"spawn111.jpg"
+    },
+    {
+        "id": 45,
+        "title": "Spawn", //$
+        "subtitle": "MK 11",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
         "image":"spawn211.jpg"
+    },
+    {
+        "id": 45,
+        "title": "Spawn", //$
+        "subtitle": "MK 11",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"spawn211.jpg"
+    },
+    {
+        "id": 45,
+        "title": "Spawn",
+        "subtitle": "MK 11", //$
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"spawn311.jpg"
     },
     {
         "id": 45,
@@ -4865,6 +6966,28 @@ let data = [
         "special_skills": 9760,
         "fighting_skills": 9760,
         "image":"spawn411.jpg"
+    },
+    {
+        "id": 45,
+        "title": "Spawn",
+        "subtitle": "MK 11 | Shadow of Spawn",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"spawn411.jpg"
+    },
+    {
+        "id": 45,
+        "title": "Spawn", //$
+        "subtitle": "MK 11 | Shadow of Spawn",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"spawn511.jpg"
     },
     {
         "id": 45,
@@ -4986,7 +7109,51 @@ let data = [
         "dexterity": 9200,
         "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
         "fighting_skills":9100,
+        "image":"jokeri111.jpg"
+    },
+        {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "MK 11", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri111.jpg"
+    },
+        {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "MK 11", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
         "image":"jokeri211.jpg"
+    },
+        {
+        "id": 107,
+        "title": "Joker",
+        "subtitle": "MK 11", //$
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri211.jpg"
+    },
+        {
+        "id": 107,
+        "title": "Joker", //$
+        "subtitle": "MK 11 | Banned Laughter",
+        "power": 9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "intelligence": 7400,
+        "dexterity": 9200,
+        "special_skills":9550, //слабее супермена и потому что он всегда проебывает уменьшены возможности всех побеждать
+        "fighting_skills":9100,
+        "image":"jokeri311.jpg"
     },
         {
         "id": 107,
@@ -5009,6 +7176,50 @@ let data = [
         "special_skills":9320,
         "fighting_skills":9100,
         "image":"t100012023.jpg"
+    },
+    {
+        "id": 30,
+        "title": "T-1000", //сильнее терминатора, слабее колоса
+        "subtitle": "MK 1 2023",
+        "power": 9320,
+        "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
+        "dexterity": 8500, //+200 за его метал ловкий 
+        "special_skills":9320,
+        "fighting_skills":9100,
+        "image":"t100012023.jpg"
+    },
+    {
+        "id": 30,
+        "title": "T-1000", //сильнее терминатора, слабее колоса
+        "subtitle": "MK 1 2023",
+        "power": 9320,
+        "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
+        "dexterity": 8500, //+200 за его метал ловкий 
+        "special_skills":9320,
+        "fighting_skills":9100,
+        "image":"t100012023.jpg"
+    },
+    {
+        "id": 30,
+        "title": "T-1000", //сильнее терминатора, слабее колоса
+        "subtitle": "MK 1 2023",
+        "power": 9320,
+        "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
+        "dexterity": 8500, //+200 за его метал ловкий 
+        "special_skills":9320,
+        "fighting_skills":9100,
+        "image":"t100012023.jpg"
+    },
+    {
+        "id": 30,
+        "title": "T-1000", //сильнее терминатора, слабее колоса 
+        "subtitle": "MK 1 2023", //$
+        "power": 9320,
+        "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
+        "dexterity": 8500, //+200 за его метал ловкий 
+        "special_skills":9320,
+        "fighting_skills":9100,
+        "image":"t100022023.jpg"
     },
     {
         "id": 30,
@@ -5035,6 +7246,17 @@ let data = [
     {
         "id": 30,
         "title": "T-1000", //сильнее терминатора, слабее колоса
+        "subtitle": "MK 1 2023 | Motor Unit", //$
+        "power": 9320,
+        "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
+        "dexterity": 8500, //+200 за его метал ловкий 
+        "special_skills":9320,
+        "fighting_skills":9100,
+        "image":"t100032023.jpg"
+    },
+    {
+        "id": 30,
+        "title": "T-1000", //сильнее терминатора, слабее колоса
         "subtitle": "MK 1 2023 | Major Crimes", //$
         "power": 9320,
         "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
@@ -5042,6 +7264,28 @@ let data = [
         "special_skills":9320,
         "fighting_skills":9100,
         "image":"t100042023.jpg"
+    },
+    {
+        "id": 30,
+        "title": "T-1000", //сильнее терминатора, слабее колоса
+        "subtitle": "MK 1 2023 | Major Crimes", //$
+        "power": 9320,
+        "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
+        "dexterity": 8500, //+200 за его метал ловкий 
+        "special_skills":9320,
+        "fighting_skills":9100,
+        "image":"t100042023.jpg"
+    },
+    {
+        "id": 30,
+        "title": "T-1000", //сильнее терминатора, слабее колоса
+        "subtitle": "MK 1 2023 | Weapons and Tactics", //$
+        "power": 9320,
+        "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
+        "dexterity": 8500, //+200 за его метал ловкий 
+        "special_skills":9320,
+        "fighting_skills":9100,
+        "image":"t100052023.jpg"
     },
     {
         "id": 30,
@@ -5068,6 +7312,39 @@ let data = [
     {
         "id": 30,
         "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface1.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface1.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface1.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
         "subtitle": "MK 1 2023 | Gleeful Homicide", //$
         "power": 8850,
         "intelligence": 7800, 
@@ -5075,6 +7352,28 @@ let data = [
         "special_skills":8850, 
         "fighting_skills":8800,
         "image":"ghostface2.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Gleeful Homicide", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface2.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Covert Slayer", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface3.jpg"
     },
     {
         "id": 30,
@@ -5101,6 +7400,28 @@ let data = [
     {
         "id": 30,
         "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Bloody", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface4.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Devil Face", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface5.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
         "subtitle": "MK 1 2023 | Devil Face", //$
         "power": 8850,
         "intelligence": 7800, 
@@ -5123,6 +7444,17 @@ let data = [
     {
         "id": 30,
         "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Concealed", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface6.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
         "subtitle": "MK 1 2023 | Aged", //$
         "power": 8850,
         "intelligence": 7800, 
@@ -5130,6 +7462,28 @@ let data = [
         "special_skills":8850, 
         "fighting_skills":8800,
         "image":"ghostface7.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Aged", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface7.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Cryptic Assassin", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface8.jpg"
     },
     {
         "id": 30,
@@ -5162,7 +7516,62 @@ let data = [
         "dexterity": 8800, 
         "special_skills":8900,
         "fighting_skills":8600,
+        "image":"peacemaker1.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Peacemaker", //$
+        "subtitle": "MK 1 2023",
+        "power": 8900,
+        "intelligence": 7600, //планировать не умеет атаки
+        "dexterity": 8800, 
+        "special_skills":8900,
+        "fighting_skills":8600,
+        "image":"peacemaker1.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Peacemaker", //$
+        "subtitle": "MK 1 2023",
+        "power": 8900,
+        "intelligence": 7600, //планировать не умеет атаки
+        "dexterity": 8800, 
+        "special_skills":8900,
+        "fighting_skills":8600,
+        "image":"peacemaker1.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Peacemaker", //$
+        "subtitle": "MK 1 2023",
+        "power": 8900,
+        "intelligence": 7600, //планировать не умеет атаки
+        "dexterity": 8800, 
+        "special_skills":8900,
+        "fighting_skills":8600,
         "image":"peacemaker2.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Peacemaker", //$
+        "subtitle": "MK 1 2023",
+        "power": 8900,
+        "intelligence": 7600, //планировать не умеет атаки
+        "dexterity": 8800, 
+        "special_skills":8900,
+        "fighting_skills":8600,
+        "image":"peacemaker2.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Peacemaker", //$
+        "subtitle": "MK 1 2023 | Urban Pacifier",
+        "power": 8900,
+        "intelligence": 7600, //планировать не умеет атаки
+        "dexterity": 8800, 
+        "special_skills":8900,
+        "fighting_skills":8600,
+        "image":"peacemaker3.jpg"
     },
     {
         "id": 30,
@@ -5189,6 +7598,28 @@ let data = [
     {
         "id": 30,
         "title": "Peacemaker", //$
+        "subtitle": "MK 1 2023 | Hollow Point",
+        "power": 8900,
+        "intelligence": 7600, //планировать не умеет атаки
+        "dexterity": 8800, 
+        "special_skills":8900,
+        "fighting_skills":8600,
+        "image":"peacemaker4.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Peacemaker", //$
+        "subtitle": "MK 1 2023 | Hair Trigger",
+        "power": 8900,
+        "intelligence": 7600, //планировать не умеет атаки
+        "dexterity": 8800, 
+        "special_skills":8900,
+        "fighting_skills":8600,
+        "image":"peacemaker5.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Peacemaker", //$
         "subtitle": "MK 1 2023 | Hair Trigger",
         "power": 8900,
         "intelligence": 7600, //планировать не умеет атаки
@@ -5207,6 +7638,28 @@ let data = [
         "special_skills":8900,
         "fighting_skills":8600,
         "image":"peacemaker6.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Peacemaker", //$
+        "subtitle": "MK 1 2023 | Chambered Round",
+        "power": 8900,
+        "intelligence": 7600, //планировать не умеет атаки
+        "dexterity": 8800, 
+        "special_skills":8900,
+        "fighting_skills":8600,
+        "image":"peacemaker6.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Peacemaker", //$
+        "subtitle": "MK 1 2023 | Slamfire",
+        "power": 8900,
+        "intelligence": 7600, //планировать не умеет атаки
+        "dexterity": 8800, 
+        "special_skills":8900,
+        "fighting_skills":8600,
+        "image":"peacemaker7.jpg"
     },
     {
         "id": 30,
@@ -5442,6 +7895,50 @@ let data = [
     {
         "id": 29,
         "title": "Omniman",
+        "subtitle": "MK 1 2023",
+        "power": 9650, //сильнее супера
+        "intelligence": 7800,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9650,
+        "image":"omniman1.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Omniman",
+        "subtitle": "MK 1 2023",
+        "power": 9650, //сильнее супера
+        "intelligence": 7800,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9650,
+        "image":"omniman1.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Omniman",
+        "subtitle": "MK 1 2023",
+        "power": 9650, //сильнее супера
+        "intelligence": 7800,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9650,
+        "image":"omniman1.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Omniman",
+        "subtitle": "MK 1 2023",
+        "power": 9650, //сильнее супера
+        "intelligence": 7800,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9650,
+        "image":"omniman1.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Omniman",
         "subtitle": "MK 1 2023 | Guardian of the Globe",
         "power": 9650, //сильнее супера
         "intelligence": 7800,
@@ -5449,6 +7946,28 @@ let data = [
         "special_skills":9600,
         "fighting_skills":9650,
         "image":"omniman2.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Omniman",
+        "subtitle": "MK 1 2023 | Guardian of the Globe",
+        "power": 9650, //сильнее супера
+        "intelligence": 7800,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9650,
+        "image":"omniman2.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Omniman",
+        "subtitle": "MK 1 2023 | Nowl-Anh",
+        "power": 9650, //сильнее супера
+        "intelligence": 7800,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9650,
+        "image":"omniman3.jpg"
     },
     {
         "id": 29,
@@ -5475,6 +7994,17 @@ let data = [
     {
         "id": 29,
         "title": "Omniman", //$
+        "subtitle": "MK 1 2023 | Viltrumite Warrior",
+        "power": 9650, //сильнее супера
+        "intelligence": 7800,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9650,
+        "image":"omniman4.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Omniman", //$
         "subtitle": "MK 1 2023 | Still Standing",
         "power": 9650, //сильнее супера
         "intelligence": 7800,
@@ -5482,6 +8012,28 @@ let data = [
         "special_skills":9600,
         "fighting_skills":9650,
         "image":"omniman5.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Omniman", //$
+        "subtitle": "MK 1 2023 | Still Standing",
+        "power": 9650, //сильнее супера
+        "intelligence": 7800,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9650,
+        "image":"omniman5.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Omniman", //$
+        "subtitle": "MK 1 2023 | Death of Everyone",
+        "power": 9650, //сильнее супера
+        "intelligence": 7800,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9650,
+        "image":"omniman6.jpg"
     },
     {
         "id": 29,
@@ -5507,6 +8059,61 @@ let data = [
     },
     {
         "id": 29,
+        "title": "Omniman", //$
+        "subtitle": "MK 1 2023 | End of All Things",
+        "power": 9650, //сильнее супера
+        "intelligence": 7800,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9650,
+        "image":"omniman7.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Homelander", //$
+        "subtitle": "MK 1 2023",
+        "power": 9500, //слабее супера и других мощных персов dc
+        "intelligence": 6400,
+        "dexterity": 9500,
+        "special_skills":9500,
+        "fighting_skills":9500,
+        "image":"homelander1.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Homelander", //$
+        "subtitle": "MK 1 2023",
+        "power": 9500, //слабее супера и других мощных персов dc
+        "intelligence": 6400,
+        "dexterity": 9500,
+        "special_skills":9500,
+        "fighting_skills":9500,
+        "image":"homelander1.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Homelander", //$
+        "subtitle": "MK 1 2023",
+        "power": 9500, //слабее супера и других мощных персов dc
+        "intelligence": 6400,
+        "dexterity": 9500,
+        "special_skills":9500,
+        "fighting_skills":9500,
+        "image":"homelander1.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Homelander", //$
+        "subtitle": "MK 1 2023",
+        "power": 9500, //слабее супера и других мощных персов dc
+        "intelligence": 6400,
+        "dexterity": 9500,
+        "special_skills":9500,
+        "fighting_skills":9500,
+        "image":"homelander1.jpg"
+    },
+    {
+        "id": 29,
         "title": "Homelander", //$
         "subtitle": "MK 1 2023",
         "power": 9500, //слабее супера и других мощных персов dc
@@ -5526,6 +8133,28 @@ let data = [
         "special_skills":9500,
         "fighting_skills":9500,
         "image":"homelander2.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Homelander",
+        "subtitle": "MK 1 2023",
+        "power": 9500, //слабее супера и других мощных персов dc
+        "intelligence": 6400,
+        "dexterity": 9500,
+        "special_skills":9500,
+        "fighting_skills":9500,
+        "image":"homelander2.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Homelander", //$
+        "subtitle": "MK 1 2023",
+        "power": 9500, //слабее супера и других мощных персов dc
+        "intelligence": 6400,
+        "dexterity": 9500,
+        "special_skills":9500,
+        "fighting_skills":9500,
+        "image":"homelander3.jpg"
     },
     {
         "id": 29,
@@ -5552,6 +8181,28 @@ let data = [
     {
         "id": 29,
         "title": "Homelander",
+        "subtitle": "MK 1 2023 | Only Man in the Sky",
+        "power": 9500, //слабее супера и других мощных персов dc
+        "intelligence": 6400,
+        "dexterity": 9500,
+        "special_skills":9500,
+        "fighting_skills":9500,
+        "image":"homelander4.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Homelander",
+        "subtitle": "MK 1 2023 | First of the Seven",
+        "power": 9500, //слабее супера и других мощных персов dc
+        "intelligence": 6400,
+        "dexterity": 9500,
+        "special_skills":9500,
+        "fighting_skills":9500,
+        "image":"homelander5.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Homelander",
         "subtitle": "MK 1 2023 | First of the Seven",
         "power": 9500, //слабее супера и других мощных персов dc
         "intelligence": 6400,
@@ -5570,6 +8221,28 @@ let data = [
         "special_skills":9500,
         "fighting_skills":9500,
         "image":"homelander6.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Homelander",
+        "subtitle": "MK 1 2023 | Soldier Boy's Boy",
+        "power": 9500, //слабее супера и других мощных персов dc
+        "intelligence": 6400,
+        "dexterity": 9500,
+        "special_skills":9500,
+        "fighting_skills":9500,
+        "image":"homelander6.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Homelander",
+        "subtitle": "MK 1 2023 | World's Greatest Superhero",
+        "power": 9500, //слабее супера и других мощных персов dc
+        "intelligence": 6400,
+        "dexterity": 9500,
+        "special_skills":9500,
+        "fighting_skills":9500,
+        "image":"homelander7.jpg"
     },
     {
         "id": 29,
@@ -6416,6 +9089,39 @@ let data = [
         "dexterity": 8800, 
         "special_skills":9150,
         "fighting_skills":9000,
+        "image":"4freddy9.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Freddy Krueger",
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"4freddy9.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Freddy Krueger",
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
+        "image":"5freddy9.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Freddy Krueger",
+        "subtitle": "MK 9",
+        "power": 9150, //слабее джейсона
+        "intelligence": 7100,
+        "dexterity": 8800, 
+        "special_skills":9150,
+        "fighting_skills":9000,
         "image":"5freddy9.jpg"
     },
     {
@@ -6428,6 +9134,28 @@ let data = [
         "special_skills": 9760,
         "fighting_skills": 9760,
         "image":"4kratos9.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
+        "subtitle": "MK 9",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"4kratos9.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
+        "subtitle": "MK 9", //$
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"5kratos9.jpg"
     },
     {
         "id": 37,
@@ -6493,7 +9221,62 @@ let data = [
         "dexterity": 8300,
         "special_skills": 9360,
         "fighting_skills": 9000, 
+        "image":"4alien10.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Alien", 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
+        "image":"4alien10.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Alien", 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
+        "image":"4alien10.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Alien", 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
         "image":"5alien10.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Alien", 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
+        "image":"5alien10.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Alien", 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
+        "image":"alien110.jpg"
     },
     {
         "id": 37,
@@ -6526,6 +9309,28 @@ let data = [
         "dexterity": 8300,
         "special_skills": 9360,
         "fighting_skills": 9000, 
+        "image":"alien210.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Alien", 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
+        "image":"alien310.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Alien", 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
         "image":"alien310.jpg"
     },
     {
@@ -6538,6 +9343,28 @@ let data = [
         "special_skills": 9360,
         "fighting_skills": 9000, 
         "image":"alien410.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Alien", 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
+        "image":"alien410.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Alien", 
+        "subtitle": "MK X",
+        "power": 9360, //потому что другие персонажи сильнее могут уловить опасность его и персонаж очень силен
+        "intelligence": 3800,
+        "dexterity": 8300,
+        "special_skills": 9360,
+        "fighting_skills": 9000, 
+        "image":"alien510.jpg"
     },
     {
         "id": 37,
@@ -6570,7 +9397,73 @@ let data = [
         "dexterity": 8800,
         "special_skills":9200,
         "fighting_skills":9000,
+        "image":"4jason10.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Jason",  
+        "subtitle": "MK X",
+        "power": 9200, //слабее робокопа
+        "intelligence": 3900,
+        "dexterity": 8800,
+        "special_skills":9200,
+        "fighting_skills":9000,
+        "image":"4jason10.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Jason",  
+        "subtitle": "MK X",
+        "power": 9200, //слабее робокопа
+        "intelligence": 3900,
+        "dexterity": 8800,
+        "special_skills":9200,
+        "fighting_skills":9000,
+        "image":"4jason10.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Jason",  
+        "subtitle": "MK X",
+        "power": 9200, //слабее робокопа
+        "intelligence": 3900,
+        "dexterity": 8800,
+        "special_skills":9200,
+        "fighting_skills":9000,
+        "image":"4jason10.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Jason",  
+        "subtitle": "MK X",
+        "power": 9200, //слабее робокопа
+        "intelligence": 3900,
+        "dexterity": 8800,
+        "special_skills":9200,
+        "fighting_skills":9000,
         "image":"5jason10.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Jason",  
+        "subtitle": "MK X",
+        "power": 9200, //слабее робокопа
+        "intelligence": 3900,
+        "dexterity": 8800,
+        "special_skills":9200,
+        "fighting_skills":9000,
+        "image":"5jason10.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Jason",  
+        "subtitle": "MK X",
+        "power": 9200, //слабее робокопа
+        "intelligence": 3900,
+        "dexterity": 8800,
+        "special_skills":9200,
+        "fighting_skills":9000,
+        "image":"6jason10.jpg"
     },
     {
         "id": 37,
@@ -6607,6 +9500,17 @@ let data = [
     },
     {
         "id": 37,
+        "title": "Leatherface",  
+        "subtitle": "MK X",
+        "power": 8700,
+        "intelligence": 3800,
+        "dexterity": 7900,
+        "special_skills":8700,
+        "fighting_skills":8600,
+        "image":"5leatherface10.jpg"
+    },
+    {
+        "id": 37,
         "title": "Predator", //$
         "subtitle": "MK X",
         "power": 9360,
@@ -6615,6 +9519,28 @@ let data = [
         "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
         "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
         "image":"4predator10.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Predator", //$
+        "subtitle": "MK X",
+        "power": 9360,
+        "intelligence": 9360, // почему-то он сражается между другими, чтобы стать сильнее. Такой себе по уму думаю
+        "dexterity": 9300,
+        "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
+        "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
+        "image":"4predator10.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Predator",  //$
+        "subtitle": "MK X",
+        "power": 9360,
+        "intelligence": 9360, // почему-то он сражается между другими, чтобы стать сильнее. Такой себе по уму думаю
+        "dexterity": 9300,
+        "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
+        "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
+        "image":"5predator10.jpg"
     },
     {
         "id": 37,
@@ -6647,7 +9573,40 @@ let data = [
         "dexterity": 9300,
         "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
         "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
+        "image":"predator110.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Predator",  //$
+        "subtitle": "MK X",
+        "power": 9360,
+        "intelligence": 9360, // почему-то он сражается между другими, чтобы стать сильнее. Такой себе по уму думаю
+        "dexterity": 9300,
+        "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
+        "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
         "image":"predator210.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Predator",  //$
+        "subtitle": "MK X",
+        "power": 9360,
+        "intelligence": 9360, // почему-то он сражается между другими, чтобы стать сильнее. Такой себе по уму думаю
+        "dexterity": 9300,
+        "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
+        "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
+        "image":"predator210.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Predator", 
+        "subtitle": "MK X",
+        "power": 9360,
+        "intelligence": 9360, // почему-то он сражается между другими, чтобы стать сильнее. Такой себе по уму думаю
+        "dexterity": 9300,
+        "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
+        "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
+        "image":"predator310.jpg"
     },
     {
         "id": 37,
@@ -6680,7 +9639,40 @@ let data = [
         "dexterity": 9300,
         "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
         "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
+        "image":"predator410.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Predator",  //$
+        "subtitle": "MK X",
+        "power": 9360,
+        "intelligence": 9360, // почему-то он сражается между другими, чтобы стать сильнее. Такой себе по уму думаю
+        "dexterity": 9300,
+        "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
+        "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
         "image":"predator510.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Predator",  //$
+        "subtitle": "MK X",
+        "power": 9360,
+        "intelligence": 9360, // почему-то он сражается между другими, чтобы стать сильнее. Такой себе по уму думаю
+        "dexterity": 9300,
+        "special_skills": 9360, //ловушки, телепорты, невидимость, самоубийство, новые технологии возможно
+        "fighting_skills": 9350, //типо почти лучший и пытается стать еще сильнее
+        "image":"predator510.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Jason",  
+        "subtitle": "MK X",
+        "power": 9200, //слабее робокопа
+        "intelligence": 3900,
+        "dexterity": 8800,
+        "special_skills":9200,
+        "fighting_skills":9000,
+        "image":"jason110.jpg"
     },
     {
         "id": 37,
@@ -6713,6 +9705,28 @@ let data = [
         "dexterity": 8800,
         "special_skills":9200,
         "fighting_skills":9000,
+        "image":"jason210.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Jason",  
+        "subtitle": "MK X",
+        "power": 9200, //слабее робокопа
+        "intelligence": 3900,
+        "dexterity": 8800,
+        "special_skills":9200,
+        "fighting_skills":9000,
+        "image":"jason310.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Jason",  
+        "subtitle": "MK X",
+        "power": 9200, //слабее робокопа
+        "intelligence": 3900,
+        "dexterity": 8800,
+        "special_skills":9200,
+        "fighting_skills":9000,
         "image":"jason310.jpg"
     },
     {
@@ -6725,6 +9739,28 @@ let data = [
         "special_skills":9200,
         "fighting_skills":9000,
         "image":"jason410.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Jason",  
+        "subtitle": "MK X",
+        "power": 9200, //слабее робокопа
+        "intelligence": 3900,
+        "dexterity": 8800,
+        "special_skills":9200,
+        "fighting_skills":9000,
+        "image":"jason410.jpg"
+    },
+        {
+        "id": 147,
+        "title": "Kratos", //может управлять временем и убивал богов = поэтому чуть сильнее цитрион
+        "subtitle": "MK 9",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"kratos1.jpg"
     },
         {
         "id": 147,
@@ -6761,6 +9797,17 @@ let data = [
     },
     {
         "id": 206,
+        "title": "Leatherface", 
+        "subtitle": "MK X",
+        "power": 8700,
+        "intelligence": 3800,
+        "dexterity": 7900,
+        "special_skills":8700,
+        "fighting_skills":8600,
+        "image":"leatherface3.jpg"
+    },
+    {
+        "id": 206,
         "title": "Leatherface", //$
         "subtitle": "MK X",
         "power": 8700,
@@ -6769,6 +9816,28 @@ let data = [
         "special_skills":8700,
         "fighting_skills":8600,
         "image":"leatherface4.jpg"
+    },
+    {
+        "id": 206,
+        "title": "Leatherface", //$
+        "subtitle": "MK X",
+        "power": 8700,
+        "intelligence": 3800,
+        "dexterity": 7900,
+        "special_skills":8700,
+        "fighting_skills":8600,
+        "image":"leatherface4.jpg"
+    },
+    {
+        "id": 206,
+        "title": "Leatherface", //$
+        "subtitle": "MK X",
+        "power": 8700,
+        "intelligence": 3800,
+        "dexterity": 7900,
+        "special_skills":8700,
+        "fighting_skills":8600,
+        "image":"leatherface5.jpg"
     },
     {
         "id": 206,
@@ -6791,6 +9860,50 @@ let data = [
         "special_skills":9300,
         "fighting_skills":9100,
         "image":"t800611.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800", //$
+        "subtitle": "MK 11 | Systematic",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
+        "image":"t800611.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800", //$
+        "subtitle": "MK 11 | Systematic",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
+        "image":"t800611.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800", //$
+        "subtitle": "MK 11 | Systematic",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
+        "image":"t800611.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800", //$
+        "subtitle": "MK 11",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
+        "image":"t800711.jpg"
     },
     {
         "id": 32,
@@ -6823,7 +9936,40 @@ let data = [
         "dexterity": 7900, 
         "special_skills":9300,
         "fighting_skills":9100,
+        "image":"t800811.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800",
+        "subtitle": "MK 11",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
         "image":"t800911.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800",
+        "subtitle": "MK 11",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
+        "image":"t800911.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Terminator T-800", //$
+        "subtitle": "MK 11",
+        "power": 9300, //слабее т-1000, росомахи, сильнее робокопа, 
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9300,
+        "fighting_skills":9100,
+        "image":"t8001011.jpg"
     },
     {
         "id": 32,
@@ -6856,7 +10002,40 @@ let data = [
         "dexterity": 7900, 
         "special_skills":9250,
         "fighting_skills":9000,
+        "image":"robocop611.jpg"
+    },
+        {
+        "id": 32,
+        "title": "Robocop",
+        "subtitle": "MK 11",
+        "power": 9250, //слабее терминатора
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9250,
+        "fighting_skills":9000,
         "image":"robocop711.jpg"
+    },
+        {
+        "id": 32,
+        "title": "Robocop",
+        "subtitle": "MK 11",
+        "power": 9250, //слабее терминатора
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9250,
+        "fighting_skills":9000,
+        "image":"robocop711.jpg"
+    },
+        {
+        "id": 32,
+        "title": "Robocop",
+        "subtitle": "MK 11",
+        "power": 9250, //слабее терминатора
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9250,
+        "fighting_skills":9000,
+        "image":"robocop811.jpg"
     },
         {
         "id": 32,
@@ -6889,7 +10068,51 @@ let data = [
         "dexterity": 7900, 
         "special_skills":9250,
         "fighting_skills":9000,
+        "image":"robocop911.jpg"
+    },
+        {
+        "id": 32,
+        "title": "Robocop",
+        "subtitle": "MK 11",
+        "power": 9250, //слабее терминатора
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9250,
+        "fighting_skills":9000,
         "image":"robocop1011.jpg"
+    },
+        {
+        "id": 32,
+        "title": "Robocop",
+        "subtitle": "MK 11",
+        "power": 9250, //слабее терминатора
+        "intelligence": 7400, //в основном у него только одна задача бешенная. тупее т-1000
+        "dexterity": 7900, 
+        "special_skills":9250,
+        "fighting_skills":9000,
+        "image":"robocop1011.jpg"
+    },
+        {
+        "id": 45,
+        "title": "Spawn",
+        "subtitle": "MK 11",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"spawn611.jpg"
+    },
+        {
+        "id": 45,
+        "title": "Spawn",
+        "subtitle": "MK 11",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"spawn611.jpg"
     },
         {
         "id": 45,
@@ -6922,7 +10145,40 @@ let data = [
         "dexterity": 9760,
         "special_skills": 9760,
         "fighting_skills": 9760,
+        "image":"spawn711.jpg"
+    },
+        {
+        "id": 45,
+        "title": "Spawn", //$
+        "subtitle": "MK 11",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
         "image":"spawn811.jpg"
+    },
+        {
+        "id": 45,
+        "title": "Spawn", //$
+        "subtitle": "MK 11",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"spawn811.jpg"
+    },
+        {
+        "id": 45,
+        "title": "Spawn", //$
+        "subtitle": "MK 11",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"spawn911.jpg"
     },
         {
         "id": 45,
@@ -6947,6 +10203,17 @@ let data = [
         "image":"spawn1011.jpg"
     },
         {
+        "id": 45,
+        "title": "Spawn", //$
+        "subtitle": "MK 11",
+        "power": 9760,
+        "intelligence": 8500,
+        "dexterity": 9760,
+        "special_skills": 9760,
+        "fighting_skills": 9760,
+        "image":"spawn1011.jpg"
+    },
+        {
         "id": 30,
         "title": "T-1000", //сильнее терминатора, слабее колоса //$
         "subtitle": "MK 1 2023 | Motor Unit",
@@ -6956,6 +10223,39 @@ let data = [
         "special_skills":9320,
         "fighting_skills":9100,
         "image":"t100062023.jpg"
+    },
+        {
+        "id": 30,
+        "title": "T-1000", //сильнее терминатора, слабее колоса //$
+        "subtitle": "MK 1 2023 | Motor Unit",
+        "power": 9320,
+        "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
+        "dexterity": 8500, //+200 за его метал ловкий 
+        "special_skills":9320,
+        "fighting_skills":9100,
+        "image":"t100062023.jpg"
+    },
+        {
+        "id": 30,
+        "title": "T-1000", //сильнее терминатора, слабее колоса //$
+        "subtitle": "MK 1 2023 | Motor Unit",
+        "power": 9320,
+        "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
+        "dexterity": 8500, //+200 за его метал ловкий 
+        "special_skills":9320,
+        "fighting_skills":9100,
+        "image":"t100062023.jpg"
+    },
+        {
+        "id": 30,
+        "title": "T-1000", //сильнее терминатора, слабее колоса //$
+        "subtitle": "MK 1 2023 | Liquid Metal",
+        "power": 9320,
+        "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
+        "dexterity": 8500, //+200 за его метал ловкий 
+        "special_skills":9320,
+        "fighting_skills":9100,
+        "image":"t100072023.jpg"
     },
         {
         "id": 30,
@@ -6988,7 +10288,40 @@ let data = [
         "dexterity": 8500, //+200 за его метал ловкий 
         "special_skills":9320,
         "fighting_skills":9100,
+        "image":"t100082023.jpg"
+    },
+        {
+        "id": 30,
+        "title": "T-1000", //сильнее терминатора, слабее колоса //$
+        "subtitle": "MK 1 2023",
+        "power": 9320,
+        "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
+        "dexterity": 8500, //+200 за его метал ловкий 
+        "special_skills":9320,
+        "fighting_skills":9100,
         "image":"t100092023.jpg"
+    },
+        {
+        "id": 30,
+        "title": "T-1000", //сильнее терминатора, слабее колоса //$
+        "subtitle": "MK 1 2023",
+        "power": 9320,
+        "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
+        "dexterity": 8500, //+200 за его метал ловкий 
+        "special_skills":9320,
+        "fighting_skills":9100,
+        "image":"t100092023.jpg"
+    },
+        {
+        "id": 30,
+        "title": "T-1000", //сильнее терминатора, слабее колоса //$
+        "subtitle": "MK 1 2023",
+        "power": 9320,
+        "intelligence": 7500, //но в основном у него только одна задача бешенная. умнее т-800, по сравнению с ним у него больше свободы действий. и он может быть свободен
+        "dexterity": 8500, //+200 за его метал ловкий 
+        "special_skills":9320,
+        "fighting_skills":9100,
+        "image":"t1000102023.jpg"
     },
         {
         "id": 30,
@@ -7015,6 +10348,28 @@ let data = [
         {
         "id": 30,
         "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Psycho Killer", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface9.jpg"
+    },
+        {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Psycho Killer", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface9.jpg"
+    },
+        {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
         "subtitle": "MK 1 2023 | Rampant Murder", //$
         "power": 8850,
         "intelligence": 7800, 
@@ -7022,6 +10377,50 @@ let data = [
         "special_skills":8850, 
         "fighting_skills":8800,
         "image":"ghostface10.jpg"
+    },
+        {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Rampant Murder", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface10.jpg"
+    },
+        {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Rampant Murder", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface10.jpg"
+    },
+        {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Silver Anniversary", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface11.jpg"
+    },
+        {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Silver Anniversary", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface11.jpg"
     },
         {
         "id": 30,
@@ -7048,6 +10447,39 @@ let data = [
         {
         "id": 30,
         "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Scarecrow", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface12.jpg"
+    },
+        {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Scarecrow", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface12.jpg"
+    },
+        {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
+        "subtitle": "MK 1 2023 | Woodsboro Butcher", //$
+        "power": 8850,
+        "intelligence": 7800, 
+        "dexterity": 8800,
+        "special_skills":8850, 
+        "fighting_skills":8800,
+        "image":"ghostface13.jpg"
+    },
+        {
+        "id": 30,
+        "title": "Ghostface", //внутри несколко персонажей из клана черный дракон от кано
         "subtitle": "MK 1 2023 | Woodsboro Butcher", //$
         "power": 8850,
         "intelligence": 7800, 
@@ -7070,6 +10502,17 @@ let data = [
         {
         "id": 30,
         "title": "Peacemaker", //$
+        "subtitle": "MK 1 2023 | Blowback",
+        "power": 8900,
+        "intelligence": 7600, //планировать не умеет атаки
+        "dexterity": 8800, 
+        "special_skills":8900,
+        "fighting_skills":8600,
+        "image":"peacemaker8.jpg"
+    },
+        {
+        "id": 30,
+        "title": "Peacemaker", //$
         "subtitle": "MK 1 2023 | Double Tap",
         "power": 8900,
         "intelligence": 7600, //планировать не умеет атаки
@@ -7077,6 +10520,28 @@ let data = [
         "special_skills":8900,
         "fighting_skills":8600,
         "image":"peacemaker9.jpg"
+    },
+        {
+        "id": 30,
+        "title": "Peacemaker", //$
+        "subtitle": "MK 1 2023 | Double Tap",
+        "power": 8900,
+        "intelligence": 7600, //планировать не умеет атаки
+        "dexterity": 8800, 
+        "special_skills":8900,
+        "fighting_skills":8600,
+        "image":"peacemaker9.jpg"
+    },
+        {
+        "id": 30,
+        "title": "Peacemaker", //$
+        "subtitle": "MK 1 2023",
+        "power": 8900,
+        "intelligence": 7600, //планировать не умеет атаки
+        "dexterity": 8800, 
+        "special_skills":8900,
+        "fighting_skills":8600,
+        "image":"peacemaker10.jpg"
     },
         {
         "id": 30,
@@ -7109,6 +10574,28 @@ let data = [
         "dexterity": 9600,
         "special_skills":9600,
         "fighting_skills":9650,
+        "image":"omniman8.jpg"
+    },
+        {
+        "id": 29,
+        "title": "Omniman", //$
+        "subtitle": "MK 1 2023",
+        "power": 9650, //сильнее супера
+        "intelligence": 7800,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9650,
+        "image":"omniman9.jpg"
+    },
+        {
+        "id": 29,
+        "title": "Omniman", //$
+        "subtitle": "MK 1 2023",
+        "power": 9650, //сильнее супера
+        "intelligence": 7800,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9650,
         "image":"omniman9.jpg"
     },
         {
@@ -7121,6 +10608,28 @@ let data = [
         "special_skills":9600,
         "fighting_skills":9650,
         "image":"omniman10.jpg"
+    },
+        {
+        "id": 29,
+        "title": "Omniman", //$
+        "subtitle": "MK 1 2023",
+        "power": 9650, //сильнее супера
+        "intelligence": 7800,
+        "dexterity": 9600,
+        "special_skills":9600,
+        "fighting_skills":9650,
+        "image":"omniman10.jpg"
+    },
+       {
+        "id": 29,
+        "title": "Homelander", //$
+        "subtitle": "MK 1 2023",
+        "power": 9500, //слабее супера и других мощных персов dc
+        "intelligence": 6400,
+        "dexterity": 9500,
+        "special_skills":9500,
+        "fighting_skills":9500,
+        "image":"homelander8.jpg"
     },
        {
         "id": 29,
@@ -7154,6 +10663,28 @@ let data = [
         "special_skills":9500,
         "fighting_skills":9500,
         "image":"homelander10.jpg"
+    },
+       {
+        "id": 29,
+        "title": "Homelander", //$
+        "subtitle": "MK 1 2023",
+        "power": 9500, //слабее супера и других мощных персов dc
+        "intelligence": 6400,
+        "dexterity": 9500,
+        "special_skills":9500,
+        "fighting_skills":9500,
+        "image":"homelander10.jpg"
+    },
+       {
+        "id": 29,
+        "title": "Homelander", //$
+        "subtitle": "MK 1 2023",
+        "power": 9500, //слабее супера и других мощных персов dc
+        "intelligence": 6400,
+        "dexterity": 9500,
+        "special_skills":9500,
+        "fighting_skills":9500,
+        "image":"homelander11.jpg"
     },
        {
         "id": 29,
