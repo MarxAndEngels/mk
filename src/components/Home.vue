@@ -1,23 +1,26 @@
 <template>
     <div>
         <div class="menu">
-      <router-link :to="`${selectedOptionPlayers}/${selectedOptionLanguage}/game1`">
-        <span>1.</span> {{ selectedOptionLanguage == 'rus' ? 'Игра 1' : 'Game 1' }}</router-link>
+
+ <router-link :to="`${selectedOptionPlayers}/${selectedOptionLanguage}/bonuses/game1/pc`">
+        <span>
+          1.
+        </span>
+         {{ selectedOptionLanguage == 'rus' ? 'Одиночная игра' : 'Play against the computer' }}</router-link>
+
+      <!-- <router-link :to="`${selectedOptionPlayers}/${selectedOptionLanguage}/game1`">
+        <span>2.</span> {{ selectedOptionLanguage == 'rus' ? 'Игра 1' : 'Game 1' }}</router-link>
 
               <router-link :to="`${selectedOptionPlayers}/${selectedOptionLanguage}/bonuses/game1`">
-          <span>2.</span> {{ selectedOptionLanguage == 'rus' ? 'Игра 1 c бонус картами' : 'Game 1 with bonuses' }}</router-link>
+          <span>3.</span> {{ selectedOptionLanguage == 'rus' ? 'Игра 1 c бонус картами' : 'Game 1 with bonuses' }}</router-link>
               <router-link :to="`${selectedOptionPlayers}/${selectedOptionLanguage}/game2`">
-          <span>3.</span> {{ selectedOptionLanguage == 'rus' ? 'Игра 2' : 'Game 2' }}</router-link>
+          <span>4.</span> {{ selectedOptionLanguage == 'rus' ? 'Игра 2' : 'Game 2' }}</router-link>
       <router-link :to="`${selectedOptionPlayers}/${selectedOptionLanguage}/bonuses/game2`">
-        <span>
-          4.
-        </span>
-         {{ selectedOptionLanguage == 'rus' ? 'Игра 2 c бонус картами' : 'Game 2 with bonuses' }}</router-link>
-      <router-link :to="`${selectedOptionPlayers}/${selectedOptionLanguage}/bonuses/game1/pc`">
         <span>
           5.
         </span>
-         {{ selectedOptionLanguage == 'rus' ? 'Играть против компьютера' : 'Play against the computer' }}</router-link>
+         {{ selectedOptionLanguage == 'rus' ? 'Игра 2 c бонус картами' : 'Game 2 with bonuses' }}</router-link> -->
+     
          <!-- <router-link to="/test">test</router-link> -->
 
     <!-- <div class="text-select">
